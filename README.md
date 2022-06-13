@@ -1,5 +1,5 @@
 # Enter-vehicle-information
-# 정보 입력
+# 정보 입력하기
 차량 정보를 입력하고 수정해보자^^ 
 ![image](https://user-images.githubusercontent.com/89557730/173334201-56bdeebb-aed1-48ad-b286-64197572094b.png)
 ##
